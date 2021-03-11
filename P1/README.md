@@ -21,7 +21,7 @@ Way-Away: Indagando sobre planificadores de viajes, topamos con esta página web
 
 Con todo esto, consideramos que la mejor opción para escoger es Inspirock ya que como hemos dicho, ofrece una experiencia bastante completa y personalizable para los usuarios. Elegimos esta sobre way-away porque luce como una página más profesional, a pesar de que ninguna de las dos tiene app para móvil, sin duda resultan de las opciones más atractivas. Destacamos de inspirock sobre way-away, que te permite minimizar las horas de viaje. A lo largo de las prácticas, la analizaremos y también mencionaremos los fallos que percibimos en la página.
 
-![](https://github.com/lawvp/DIU21/blob/master/img/TABLA.png)
+![](https://github.com/lawvp/DIU21/blob/master/img/TABLA.jpg)
 1.b Persona
 -----
 
