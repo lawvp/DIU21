@@ -3,7 +3,7 @@
 ## Paso 1. UX Desk Research & Analisis 
 
 1.a Competitive Analysis
-
+-----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
