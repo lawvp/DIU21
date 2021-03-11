@@ -35,7 +35,9 @@ Con todo esto, consideramos que la mejor opción para escoger es Inspirock ya qu
 
 1.c User Journey Map
 ----
+![](https://github.com/lawvp/DIU21/blob/master/img/journal1.png)
 
+![](https://github.com/lawvp/DIU21/blob/master/img/journal2.png)
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
