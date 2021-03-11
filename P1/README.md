@@ -4,9 +4,6 @@
 
 1.a Competitive Analysis
 -----
-
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
-
 Competitive Analysis:
 
 Inspirock: Permite a los usuarios, de una forma fácil y rápida, explorar distintos destinos y organizar un itinerario con los lugares que desean visitar durante su viaje, todo esto gracias a la experiencia local de otros usuarios y a una inteligencia artificial de vanguardia. Inspirock presenta una gran variedad de lugares que visitar, cada uno de ellos con puntos interesantes y un tiempo recomendado para estar. Provee bastantes herramientas para planificar tu viaje de la manera más óptima posible, tanto minimizando el tiempo de viaje y comprobando qué sitios de interés de los cuales quieres visitar están disponibles en las fechas en las que estás planeando el viaje.
@@ -24,7 +21,7 @@ Way-Away: Indagando sobre planificadores de viajes, topamos con esta página web
 
 Con todo esto, consideramos que la mejor opción para escoger es Inspirock ya que como hemos dicho, ofrece una experiencia bastante completa y personalizable para los usuarios. Elegimos esta sobre way-away porque luce como una página más profesional, a pesar de que ninguna de las dos tiene app para móvil, sin duda resultan de las opciones más atractivas. Destacamos de inspirock sobre way-away, que te permite minimizar las horas de viaje. A lo largo de las prácticas, la analizaremos y también mencionaremos los fallos que percibimos en la página.
 
-![](https://github.com/lawvp/DIU21/blob/master/img/Tabla Competitor Analysis_page-0001.jpg.png)
+![](https://github.com/lawvp/DIU21/blob/master/img/TABLA.png)
 1.b Persona
 -----
 
