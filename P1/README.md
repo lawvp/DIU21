@@ -27,7 +27,10 @@ Con todo esto, consideramos que la mejor opción para escoger es Inspirock ya qu
 
 1.b Persona
 -----
+
 ![](https://github.com/lawvp/DIU21/blob/master/img/persona1.png)
+
+![](https://github.com/lawvp/DIU21/blob/master/img/persona2.png)
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 1.c User Journey Map
