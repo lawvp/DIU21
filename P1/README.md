@@ -27,7 +27,7 @@ Con todo esto, consideramos que la mejor opción para escoger es Inspirock ya qu
 
 1.b Persona
 -----
-![Método UX](img/persona1.png)
+![](img/persona1.png)
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 1.c User Journey Map
