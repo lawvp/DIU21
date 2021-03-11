@@ -43,7 +43,6 @@ Esta experiencia muestra como de forma cotidiana, una persona que le guste la na
 En segundo lugar, esta experiencia es la que podría darse con un perfil de usuario. Tiene que ponerse de acuerdo con las personas, buscar sitios que puedan agradarle a los niños... decide acudir a una agencia porque necesita ayuda profesional, en algún punto piensa que le irá mejor buscando por su cuenta y se siente frustrado de ver que no es así. Acude a la agencia de nuevo pidiendo una mejor oferta, la consigue pero no termina de comprender todo lo que lo piden y es su hijo el que le tiene que llevar la gestión. Pensamos que esta experiencia se puede dar también en muchas ocasiones, que una persona intente hacer una gestión y finalmente requiera ayuda porque no lo consigue.
 ![](https://github.com/lawvp/DIU21/blob/master/img/journal2.png)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 1.d Usability Review
 ----
