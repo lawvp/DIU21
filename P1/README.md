@@ -28,10 +28,12 @@ Con todo esto, consideramos que la mejor opción para escoger es Inspirock ya qu
 1.b Persona
 -----
 
+Elegimos el perfil de una mujer joven y deportista/amante de la naturaleza porque es una persona que de forma usual va a querer buscar sitios de para alojarse (de forma rural por ejemplo). Es una persona que más o menos suponemos que se debe entender con las tecnologías (por la edad) aunque no haga un uso diario o excesivo de ellas. Creemos que le pueden surgir problemas de querer buscar sitios nuevos, comparar precios (puede tener más limitaciones económicas), alojamientos adecuados etc. más que de cualquier otro tipo. Además le puede prestar interés a los blogs de viaje u a otras redes sociales donde se suba información de la agencia/web... Por último pensamos que es un usuario susceptible a mirar o a requerir de paquetes con descuentos, rutas que porporcionan etc.
 ![](https://github.com/lawvp/DIU21/blob/master/img/persona1.png)
 
+Por otra parte, hemos decidido elegir el perfil de una persona mayor (ya jubilado) para mostrar otros tipos de problemas que se le pueden presentar. Más allá de otra cosa, este perfil de usuario buscará sitios donde estar a gusto, conocer cosas nuevas y poder pasar buenos ratos con la gente que vaya acompañado (como puede ser su familia). Tendrá que indagar más acerca de si los destinos son aptos para sus nietos, planificar fechas para todas las personas que quiera llevar con él... Además al estar alejado del mundo de las tecnologías se le puede hacer costoso reservar o hacer gestiones por internet y normalmente recurren a lo tradicional. También pensamos que este tipo de usuario probablemente acuda más a la asistencia técnica si algo no lo entiende o requiera de herramientas más visuales.
 ![](https://github.com/lawvp/DIU21/blob/master/img/persona2.png)
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+
 
 1.c User Journey Map
 ----
