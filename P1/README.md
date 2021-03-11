@@ -37,8 +37,10 @@ Por otra parte, hemos decidido elegir el perfil de una persona mayor (ya jubilad
 
 1.c User Journey Map
 ----
+Esta experiencia muestra como de forma cotidiana, una persona que le guste la naturaleza decida irse y descubrir sitios nuevos pero no se consigue decidir. Cuenta además con la parte de que alguien tiene que atender a su hijo mientras está fuera, así que quizás prefiere no irse demasiado lejos (a pesar de que le gustaría irse al país donde vive su familia). No se entiende mal del todo con las páginas pero recurre a consejo de conocidos y encuentra una buena oferta por la que decantarse, así que se queda conforme.
 ![](https://github.com/lawvp/DIU21/blob/master/img/journal1.png)
 
+En segundo lugar, esta experiencia es la que podría darse con un perfil de usuario. Tiene que ponerse de acuerdo con las personas, buscar sitios que puedan agradarle a los niños... decide acudir a una agencia porque necesita ayuda profesional, en algún punto piensa que le irá mejor buscando por su cuenta y se siente frustrado de ver que no es así. Acude a la agencia de nuevo pidiendo una mejor oferta, la consigue pero no termina de comprender todo lo que lo piden y es su hijo el que le tiene que llevar la gestión. Pensamos que esta experiencia se puede dar también en muchas ocasiones, que una persona intente hacer una gestión y finalmente requiera ayuda porque no lo consigue.
 ![](https://github.com/lawvp/DIU21/blob/master/img/journal2.png)
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
